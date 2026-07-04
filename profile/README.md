@@ -36,7 +36,7 @@
 
 <div align="center">
 
-Vex combines the control of **C**, the object model of **Java** and the ergonomics of **Python**
+[vesta](https://github.com/vesta-lang) combines the control of **C**, the object model of **Java** and the ergonomics of **Python**
 in a single statically-typed language.<br>
 The same code scales from a script to an operating system — down to kernels, drivers and
 firmware — because that's a *deployment* choice, not a different language.
