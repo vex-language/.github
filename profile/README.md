@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Vex" width="120">
+<img src="../logo.png" alt="Vex" width="120">
 
 ### A multi-paradigm systems language
 ##### high-level to write · low-level enough to boot a machine
